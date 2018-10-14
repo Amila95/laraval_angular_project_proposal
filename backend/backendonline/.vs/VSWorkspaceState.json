@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\database",
+    "\\database\\migrations"
+  ],
+  "SelectedNode": "\\database\\migrations\\2018_09_09_145218_creat_quote_table.php",
+  "PreviewInSolutionExplorer": false
+}
